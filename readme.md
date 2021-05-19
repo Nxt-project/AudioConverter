@@ -1,4 +1,9 @@
 <h1>Simple video to audio converter</h1>
+<h3>Why?</h3>
+<p>
+    I created this simple script to convert video clips from YouTube livestreams to audio files for podcast episodes on Spotify, Deezer, etc.
+</p>
+<h3>Install</h3>
 <p>
     <ul>
         <li>1. Install <code>moviepy</code> with pip</li>
